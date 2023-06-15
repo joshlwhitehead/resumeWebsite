@@ -1,0 +1,39 @@
+PHYSICAL DEVICE
+spectrophotometer
+photo-bioreactor
+electric generator
+
+
+CHEMICAL
+alginate beads
+VOCs
+bio-deisel
+liquid crystals
+distilation
+(check chem labs)
+CuCl/electrolysis
+PCR
+saponification
+
+
+CHEMIAL PROCESS
+automate alginate beads
+pumpLab
+
+
+PROGRAMMING
+parse data from DAVE
+thermal model
+-optimize coeff
+
+
+DATA ANALYTICS
+stats for objective results
+-ANOVA
+-tolerance/confidence intervals
+complex populations
+tolerance area
+
+
+
+
